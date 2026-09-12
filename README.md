@@ -165,10 +165,10 @@ The booking system depends on the abstract `Payment` type rather than directly d
 
  ## 🎓 Academic Context
 
--**Subject:** System Design  
--**Semester:** 5th Semester   
--**Program:** B.Tech CSE  
--**Language**: C++
--Console based application
+- **Subject:** System Design  
+- **Semester:** 5th Semester   
+- **Program:** B.Tech CSE  
+- **Language**: C++
+- Console based application
 ---
 
