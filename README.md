@@ -163,5 +163,12 @@ The booking system depends on the abstract `Payment` type rather than directly d
 - **Concepts:** Object-Oriented Programming, System Design
 - **Compiler:** Any standard C++ compiler
 
+ ## 🎓 Academic Context
+
+**Subject:** System Design  
+**Semester:** 5th Semester   
+**Program:** B.Tech CSE  
+**Language**: C++
+Console based application
 ---
 
