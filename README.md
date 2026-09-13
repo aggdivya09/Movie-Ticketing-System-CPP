@@ -176,3 +176,10 @@ The booking system depends on the abstract `Payment` type rather than directly d
 
 **Divya Agarwal**
 
+## 🤝 Contributions 
+
+If you have ideas to make it better or find any issues, feel free to help! You can message, suggest changes, or add your own features. Let's grow and learn together 🚀
+## 📥 Download
+
+[![Download ZIP](https://img.shields.io/badge/Download-Source%20Code-blue?style=for-the-badge&logo=github)](https://github.com/aggdivya09/Movie-Ticketing-System-CPP/archive/refs/heads/main.zip)
+
